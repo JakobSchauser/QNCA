@@ -1,1 +1,6 @@
 # QNCA
+
+
+Ideas: 
+
+Graph Autoencoders 
